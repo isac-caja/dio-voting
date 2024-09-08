@@ -1,10 +1,10 @@
 {
   "name": "dio-voting",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A studying case of smart contracts",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "hardhat compile; REPORT_GAS=true hardhat test"
   },
   "keywords": [],
   "author": "",

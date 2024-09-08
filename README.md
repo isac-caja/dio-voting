@@ -1,8 +1,23 @@
-# Sample Hardhat Project
+# Voting
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project is a studying case about a voting system implemented in a Ethereum Blockchain.
+This is my first smart contract implementation using Solidity
 
-Try running some of the following tasks:
+# Install
+
+It uses `yarn` to mange the version of dependencies. So, install **yarn** (`npm install yarn -g`) before to continue.
+
+```shell
+yarn install
+```
+
+# Running tests
+
+```shell
+yarn test
+```
+
+## Running tests
 
 ```shell
 npx hardhat help
